@@ -1,0 +1,14 @@
+passenger_no 100
+officer_no 10
+pal_off 4
+jor_off 4
+fog_off 2
+pal_perc 50
+jor_perc 30
+fog_perc 20
+bus_no 5
+Tbi_min 20
+Tbi_max 40
+H_max 20
+H_min 15
+valid_perc 60
